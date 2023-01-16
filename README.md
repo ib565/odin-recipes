@@ -1,2 +1,2 @@
 # odin-recipes
-odinproject webpage 2
+practicing setting up a repo
